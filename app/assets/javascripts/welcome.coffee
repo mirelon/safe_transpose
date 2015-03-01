@@ -23,6 +23,13 @@ hardness =
   'F2': 2
   'F#2': 2
   'G2': 2
+  'G#2': 2
+  'A2': 3
+  'B2': 3
+  'H2': 4
+  'C3': 4
+  'C#3': 5
+  'D3': 6
 
 notes = Object.keys(hardness)
 
